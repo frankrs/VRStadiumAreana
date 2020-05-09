@@ -1,47 +1,174 @@
 fileFormatVersion: 2
 guid: ae5c26727a8b24249a9a4a1236c912a1
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Pitch
-    100004: Scoreboard
-    100006: Stadium
-    400000: //RootNode
-    400002: Pitch
-    400004: Scoreboard
-    400006: Stadium
-    2100000: RedPlasticShader
-    2100002: BluePlasticShader
-    2100004: WhiteIceShader
-    2100006: WhitePlasticShader
-    2100008: GlassShader
-    2100010: Scoreboard_GlassShader
-    2100012: Scoreboard_BlackMetalShader
-    2100014: ScoreboardShader
-    2100016: BulbShader1
-    2100018: BulbShader
-    2100020: GalvanizedMetalShader
-    2100022: BlackMetalShader
-    2100024: BannersShader
-    2100026: ConcreteShader
-    2100028: ConcreteShader1
-    2100030: PaintedWallShader
-    2100032: MetalBulkheadShader
-    2100034: WindowsShader
-    2100036: IceRocketSeatShader
-    2300000: Pitch
-    2300002: Scoreboard
-    2300004: Stadium
-    3300000: Pitch
-    3300002: Scoreboard
-    3300004: Stadium
-    4300000: Pitch
-    4300002: Scoreboard
-    4300004: Stadium
-  externalObjects: {}
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Pitch
+  - first:
+      1: 100004
+    second: Scoreboard
+  - first:
+      1: 100006
+    second: Stadium
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Pitch
+  - first:
+      4: 400004
+    second: Scoreboard
+  - first:
+      4: 400006
+    second: Stadium
+  - first:
+      21: 2100000
+    second: RedPlasticShader
+  - first:
+      21: 2100002
+    second: BluePlasticShader
+  - first:
+      21: 2100004
+    second: WhiteIceShader
+  - first:
+      21: 2100006
+    second: WhitePlasticShader
+  - first:
+      21: 2100008
+    second: GlassShader
+  - first:
+      21: 2100010
+    second: Scoreboard_GlassShader
+  - first:
+      21: 2100012
+    second: Scoreboard_BlackMetalShader
+  - first:
+      21: 2100014
+    second: ScoreboardShader
+  - first:
+      21: 2100016
+    second: BulbShader1
+  - first:
+      21: 2100018
+    second: BulbShader
+  - first:
+      21: 2100020
+    second: GalvanizedMetalShader
+  - first:
+      21: 2100022
+    second: BlackMetalShader
+  - first:
+      21: 2100024
+    second: BannersShader
+  - first:
+      21: 2100026
+    second: ConcreteShader
+  - first:
+      21: 2100028
+    second: ConcreteShader1
+  - first:
+      21: 2100030
+    second: PaintedWallShader
+  - first:
+      21: 2100032
+    second: MetalBulkheadShader
+  - first:
+      21: 2100034
+    second: WindowsShader
+  - first:
+      21: 2100036
+    second: IceRocketSeatShader
+  - first:
+      23: 2300000
+    second: Pitch
+  - first:
+      23: 2300002
+    second: Scoreboard
+  - first:
+      23: 2300004
+    second: Stadium
+  - first:
+      33: 3300000
+    second: Pitch
+  - first:
+      33: 3300002
+    second: Scoreboard
+  - first:
+      33: 3300004
+    second: Stadium
+  - first:
+      43: 4300000
+    second: Pitch
+  - first:
+      43: 4300002
+    second: Scoreboard
+  - first:
+      43: 4300004
+    second: Stadium
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BannersShader
+    second: {fileID: 2100000, guid: b96f5622aa667e147ab544d69c1218be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetalShader
+    second: {fileID: 2100000, guid: de9eeac9a136bb945a96156f38a3b0e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BulbShader
+    second: {fileID: 2100000, guid: dd7fe2d4bfe1a2a46b08726185924287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteShader
+    second: {fileID: 2100000, guid: 5f80a64ea8ecf04498a14c55f22bc83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteShader1
+    second: {fileID: 2100000, guid: 5f80a64ea8ecf04498a14c55f22bc83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GalvanizedMetalShader
+    second: {fileID: 2100000, guid: 69d0b2ed9847a3b48a22aeaea4d5e233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassShader
+    second: {fileID: 2100000, guid: 1a73c8b26a5743646a60256c91bf6c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceRocketSeatShader
+    second: {fileID: 2100000, guid: dd7fe2d4bfe1a2a46b08726185924287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintedWallShader
+    second: {fileID: 2100000, guid: 11b4c16af1fd800409b59712d2842c75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePlasticShader
+    second: {fileID: 2100000, guid: dd7fe2d4bfe1a2a46b08726185924287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsShader
+    second: {fileID: 2100000, guid: 1a73c8b26a5743646a60256c91bf6c2c, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -74,6 +201,7 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -81,18 +209,19 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -101,10 +230,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -114,13 +243,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
