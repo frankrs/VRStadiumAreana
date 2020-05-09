@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: BR
   m_Shader: {fileID: 4800000, guid: 61412d42b6c75e740b578ae5f0814f55, type: 3}
   m_ShaderKeywords: 
@@ -39,6 +40,6 @@ Material:
     - _APNG: 0
     - _Cutoff: 0.5
     - _TXWidth: 512
-    - _U: 1080
-    - _V: 1920
+    - _U: 2048
+    - _V: 2048
     m_Colors: []

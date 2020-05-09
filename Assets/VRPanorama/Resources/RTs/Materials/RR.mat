@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: RR
   m_Shader: {fileID: 4800000, guid: 61412d42b6c75e740b578ae5f0814f55, type: 3}
   m_ShaderKeywords: 
@@ -81,9 +82,9 @@ Material:
     - _Parallax: 0.02
     - _SrcBlend: 1
     - _TXWidth: 512
-    - _U: 1080
+    - _U: 2048
     - _UVSec: 0
-    - _V: 1920
+    - _V: 2048
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
